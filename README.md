@@ -37,10 +37,15 @@ Inhaltsverzeichnis
 4. Projektstruktur
 
 sudoku/               Ordner muss noch umbenannt werden bei einem Pull !!! 
+
 ├── SudokuSolver.java
+
 ├── SolverStrategy.java
+
 ├── BacktrackingStrategy.java
+
 ├── ForwardCheckingStrategy.java
+
 └── ConstraintPropagationStrategy.java
 
 
