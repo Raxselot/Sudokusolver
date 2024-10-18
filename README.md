@@ -53,7 +53,6 @@ sudoku/               Ordner muss noch umbenannt werden bei einem Pull !!!
 
 Sudoku in der SudokuSolver.java datei eintragen 
 
-![image](https://github.com/user-attachments/assets/7eb8f0cb-0f3a-4281-a1b5-d28267716c33)
 
 
 0 = Leerer Wert, das Feld ist so sortiert wie ein Normales Sodokufeld :D 
@@ -69,4 +68,3 @@ java sudoku.SudokuSolver
 
 Expected Result 
 
-![image](https://github.com/user-attachments/assets/8e3a3e4f-b4a8-4395-bce9-8ec78c2077f2)
